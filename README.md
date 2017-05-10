@@ -1,6 +1,6 @@
 ## Korte omschrijving
-www.mijnliveomgeving.com is een website waar gebruikers kunnen .... bedoeld voor de doelgroep ....
-De website is enigszins te vergelijken met ..... of ......
+www.mijnliveomgeving.com is een website van (....) waar gebruikers kunnen (....) bedoeld voor de doelgroep (....)
+De website is enigszins te vergelijken met (.....) of (......) maar toch anders omdat (.....)
 
 ### Uniek aan dit concept is: 
  * eerste u.s.p.
