@@ -1,10 +1,10 @@
 ## Korte omschrijving
-www.mijnliveomgeving.com is een website van (....) waar gebruikers kunnen (....) bedoeld voor de doelgroep (....)
-De website is enigszins te vergelijken met (.....) of (......) maar toch anders omdat (.....)
+www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
+De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
 
 ### Uniek aan dit concept is: 
- * eerste u.s.p.
- * tweede u.s.p.
+ * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
+ * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
 
 ---
 #### Milestones Fase 1
