@@ -70,6 +70,7 @@ Ga je naar de planning, dan heb je hier veel aan.
 | Onderdeel        | Aantal           |  Uren           |
 | ------------- |-------------:|-------------:| 
 | (soft) live zetten en testen           |       |   |
+| testen SEO           |       |   |
 | schrijven test rapport           |       |   |
 | Optimalisatie plan           |       |   |
 | Controleren statistieken           |       |   |
