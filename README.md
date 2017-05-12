@@ -10,11 +10,11 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
 #### Milestones Fase 1
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
-| readme                         | DONE |  [readme.md]            | MarkDown op github |
+| readme                         | DONE |  [readme.md]            | *MarkDown op github |
 | b1-k1-w1 debriefing            | TODO | [Debriefing]            | Google Doc Comment enabled |
-| b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt] | Markdown |
-| b1-k1-w2 Urenschatting         | TODO | [doc/1/urenschatting.md]| Markdown |
-| b1-k1-w2 Planning              | TODO | [doc/1/planning.md]     | Markdown |
+| b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | *Markdown |
+| b1-k1-w2 Urenschatting         | TODO | [doc/1/urenschatting.md]| *Markdown |
+| b1-k1-w2 Planning              | TODO | [doc/1/planning.md]     | *Markdown |
 | b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Rich Text Format |
 | b1-k1-w2 Sfeer impressie       | TODO | [doc/1/moodboard]       | Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
@@ -25,8 +25,8 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
    [Leidraad_uitgangspunt.md]: <https://github.com/jouwgithub/doc/1/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/u/0/>
    [doc/1/PvA.rtf]: <https://github.com/jouwgithub/doc/1/PvA.rtf>
-   [doc/1/urenschatting.md]: <https://github.com/jouwgithub/doc/1/urenschatting.md>
-   [doc/1/planning.md]: <https://github.com/jouwgithub/doc/1/panning.md>
+   [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
+   [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
    [doc/1/moodboard]: <http://snoepgames.deviantart.com/gallery/62965766/Unicorns>
    [FO]: <https://github.com/jouwgithub/doc/1/FO.md>
    [Flow]: <https://github.com/jouwgithub/doc/1/flow.svg>
