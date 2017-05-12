@@ -10,15 +10,17 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
 #### Milestones Fase 1
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
-| readme                       | DONE |  [readme.md]    | MarkDown op github |
-| b1-k1-w1 debriefing          | TODO | [Debriefing] | Google Doc Comment enabled |
-| b1-k1-w2 Plan van aanpak     | TODO | [PvA]        | Rich Text Format |
-| b1-k1-w2 Sfeer impressie     | TODO | [sfeer]      | Image op deviantArt |
-| b1-k1-w2 Functioneel ontwerp | TODO | [FO]         | MarkDown op github |
-| b1-k1-w2 FLowChart           | TODO | [Flow]       | SVG exported by Draw.io |
-| b1-k1-w2 prototype           | TODO | [axShare]    | Axshare link |
+| readme                         | DONE |  [readme.md]    | MarkDown op github |
+| b1-k1-w1 debriefing            | TODO | [Debriefing] | Google Doc Comment enabled |
+| b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt] | Markdown |
+| b1-k1-w2 Plan van aanpak       | TODO | [PvA]        | Rich Text Format |
+| b1-k1-w2 Sfeer impressie       | TODO | [sfeer]      | Image op deviantArt |
+| b1-k1-w2 Functioneel ontwerp   | TODO | [FO]         | MarkDown op github |
+| b1-k1-w2 FLowChart             | TODO | [Flow]       | SVG exported by Draw.io |
+| b1-k1-w2 prototype             | TODO | [axShare]    | Axshare link |
 
    [readme.md]: <https://github.com/jouwgithub/readme.md>
+   [Leidraad_uitgangspunt.md]: <https://github.com/jouwgithub/doc/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/u/0/>
    [PvA]: <https://github.com/jouwgithub/doc/fase1/PvA.rtf>
    [sfeer]: <https://github.com/jouwgithub/doc/fase1/PvA.rtf>
