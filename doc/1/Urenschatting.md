@@ -1,15 +1,24 @@
-# PLANNING MY Band 
-Voor het project My Band ga je een website ontwerpen, maken en beheren
+# naar een PLANNING voor MY Band 
+Voor het project My Band ga je een website ontwerpen, maken en beheren. We hebben kort de tijd, dus we moeten efficient aan de slag.
 Je maakt nu een urenschatting. Ga ervanuit, dat deze niet gaat kloppen.
-Je houdt dus ook een uren-verantwoording bij (bijvoorbeeld in je agenda!)
+
+## Waarom maak ik een urenschatting als het toch nooit klopt?
+Je houdt ook een uren-verantwoording bij (bijvoorbeeld in je agenda!)
 Zo kun je kijken hoe goed je bent in schatten van de hoeveelheid werkzaamheden.
 
-## Hoe maak ik een urenschatting en planning?
-Hieronder staan de onderdelen genoemd die je allemaal gaat uitvoeren voor dit project. Na de briefing ga je het project goed doorlezen en een planning maken voor je project. Schrijf voor ieder onderdeel hoeveel tijd je daar mee bezig denkt te zijn. Ga dat vervolgens in je rooster zetten, samen met de deadlines, zodat je gedurende het project goed weet wat je moet doen. 
-Als het goed is kom je op ongeveer 80 uur uit, plus een stukje uitloop/onvoorzien. Om het wat makkelijker te maken hebben we de onderdelen al een beetje geklusterd
+De urenschatting verandert niet na je eerste inschatting (of je kunt terugbladeren met versionering). Zo kun je later terug kijken hoe goed je je eigen werkzaamheden kan inschatten. Reken voor je eindevaluatie je foutmarge / factor uit. Vermenigvuldig in het volgende project met deze factor bij de uren inschatting van dat volgende project.
 
-# STAP 1 URENINSCHATTING uren per onderdeel
-Hoeveel uur ben je met ieder onderdeel bezig? Is de lijst compleet? (ga er maar van uit van niet) Moet je dingen verder splitsen, voordat je kan inschatten? Is de volgorde logisch? Ga ervanuit dat onderdelen met elkaar samenhangen, dus je zal met meerdere onderdelen tegelijk bezig zijn, probeer deze in de .
+## Hoe maak ik een urenschatting?
+Hieronder staan de onderdelen genoemd die je allemaal gaat uitvoeren voor dit project. Na de briefing ga je het project goed doorlezen en een planning maken voor je project. Schrijf voor ieder onderdeel hoeveel tijd je daar mee bezig denkt te zijn. Ga dat vervolgens in je rooster zetten, samen met de deadlines, zodat je gedurende het project goed weet wat je moet doen. 
+Als het goed is kom je op ongeveer 80 uur uit, plus een stukje uitloop/onvoorzien. Om het wat makkelijker te maken hebben we de onderdelen al een beetje geklusterd.
+
+> # Hoe deze lijst te gebruiken
+> * Vul in hoeveel uur je met ieder onderdeel bezig bent.
+> * let op repeterende taken? 
+> * Is de lijst compleet? (ga er maar van uit van niet).
+> * Moet je dingen verder splitsen, voordat je kan inschatten? 
+> * Is de volgorde logisch? Ga ervanuit dat onderdelen met elkaar samenhangen, dus je zal met meerdere onderdelen tegelijk bezig zijn,  probeer deze in de urenschatting al een beetje te groeperen.
+Ga je naar de planning, dan heb je hier veel aan.
 
 ##### Aspect 1
 | Onderdeel        | Aantal           |  Uren           |
@@ -60,6 +69,15 @@ Hoeveel uur ben je met ieder onderdeel bezig? Is de lijst compleet? (ga er maar 
 ##### Aspect 3
 | Onderdeel        | Aantal           |  Uren           |
 | ------------- |-------------:|-------------:| 
-| live zetten en testen           |       |   |
+| (soft) live zetten en testen           |       |   |
 | schrijven test rapport           |       |   |
+| Optimalisatie plan           |       |   |
+| Controleren statistieken           |       |   |
+| aanpassen / bugs           |       |   |
+| live zettenn          |       |   |
+| Verzamelen nieuwe statistieken           |       |   |
+| Aanpassen Optimalisatie plan           |       |   |
+| Bonus punten         |       |   |
+| Evaluatie         |       |   |
+| Presentatie         |       |   |
 
