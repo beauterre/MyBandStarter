@@ -24,7 +24,7 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
    [readme.md]: <https://github.com/jouwgithub/readme.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/jouwgithub/doc/1/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/u/0/>
-   [doc/1/PvA.rtf]: <https://github.com/jouwgithub/doc/1/PvA.rtf>
+   [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
    [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
    [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
    [doc/1/moodboard]: <http://snoepgames.deviantart.com/gallery/62965766/Unicorns>
