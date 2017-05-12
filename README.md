@@ -21,8 +21,8 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
 | b1-k1-w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
 | b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
 
-   [readme.md]: <https://github.com/jouwgithub/readme.md>
-   [Leidraad_uitgangspunt.md]: <https://github.com/jouwgithub/doc/1/uitgangspunt.md>
+   [readme.md]: <https://github.com/JouwGithubNaam/myband/blob/master/readme.md>
+   [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/u/0/>
    [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
    [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
