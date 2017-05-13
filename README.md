@@ -16,7 +16,7 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
 | b1-k1-w2 Urenschatting         | TODO | [doc/1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | TODO | [doc/1/planning.md]     | *Markdown |
 | b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Rich Text Format |
-| b1-k1-w2 Sfeer impressie       | TODO | [doc/1/moodboard]       | Image op deviantArt |
+| b1-k1-w2 Sfeer impressie       | TODO | [doc/1/moodboard]       | PNG Image op deviantArt |
 | b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
 | b1-k1-w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
 | b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
@@ -27,7 +27,7 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
    [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
    [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
    [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
-   [doc/1/moodboard]: <http://snoepgames.deviantart.com/gallery/62965766/Unicorns>
+   [doc/1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
    [FO]: <https://github.com/jouwgithub/doc/1/FO.md>
    [Flow]: <https://github.com/jouwgithub/doc/1/flow.svg>
    [axShare]: <http://w2d1bw.axshare.com/>
