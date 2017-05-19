@@ -1,43 +1,31 @@
-## Titel van jouw website
-www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+## World of warcraft
+www.mijnliveomgeving.com is een website van (Nick Hordijk) waar gebruikers kunnen (Fans kunnen troep posten die ze kwijt willen) bedoeld voor (mensen die World of warcraft spelen)
+De website is enigszins te vergelijken met (reddit.com/r/worldofpvp/) of (https://eu.battle.net/forums/en/wow/) maar toch anders omdat (..uniek aspect..)
 
-### Uniek aan dit concept is: 
- * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
- * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
+### Uniek aan dit concept is:
+  het is die van mij
 
 ---
-#### Milestones Fase 1
+#### Week doel iets
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
 | readme                         | DONE |  [readme.md]            | *MarkDown op github |
-| b1-k1-w1 debriefing            | TODO | [Debriefing]            | Google Doc Comment enabled |
-| b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | *Markdown |
-| b1-k1-w2 Urenschatting         | TODO | [doc/1/urenschatting.md]| *Markdown |
-| b1-k1-w2 Planning              | TODO | [doc/1/planning.md]     | *Markdown |
-| b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Rich Text Format |
-| b1-k1-w2 Sfeer impressie       | TODO | [doc/1/moodboard]       | PNG Image op deviantArt |
-| b1-k1-w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
-| b1-k1-w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
-| b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
+|  w1 debriefing            | DONE | [Debriefing] (maar snap er niets van)  | Google Doc Comment enabled |
+| w1 bepaling uitgangspunt | DONE | [Leidraad_uitgangspunt.md] | *Markdown |
+| w2 Urenschatting         | TODO | [doc/1/urenschatting.md]| *Markdown |
+| w2 Planning              | TODO | [doc/1/planning.md]     | *Markdown |
+| w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Rich Text Format |
+| w2 Sfeer impressie       | TODO | [doc/1/moodboard]       | PNG Image op deviantArt |
+| w2 Functioneel ontwerp   | TODO | [FO]                    | MarkDown op github |
+| w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
+| w2 prototype             | TODO | [axShare]               | Axshare link |
 
-   [readme.md]: <https://github.com/JouwGithubNaam/myband/blob/master/readme.md>
-   [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
-   [Debriefing]: <https://docs.google.com/document/u/0/>
-   [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
-   [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
-   [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
-   [doc/1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
-   [FO]: <https://github.com/jouwgithub/doc/1/FO.md>
-   [Flow]: <https://github.com/jouwgithub/doc/1/flow.svg>
-   [axShare]: <http://w2d1bw.axshare.com/>
-
-#### Milestones Fase 2
+#### Milestones Fase 2 << wat is fase 2?
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| b1-k1-w3 Technisch Ontwerp |  TODO |  [doc/fase2/TO.rtf] |
-| b1-k1-w3 ERD               |  TODO |  [doc/fase2/erd.svg] |
-| b1-k1-w4 Ontwikkelomgeving |  TODO |  [doc/fase2/oo.md]|
+| w3 Technisch Ontwerp |  TODO |  [doc/fase2/TO.rtf] |
+| w3 ERD               |  TODO |  [doc/fase2/erd.svg] |
+| w4 Ontwikkelomgeving |  TODO |  [doc/fase2/oo.md]|
 | Link naar de live omgeving |  TODO |  <https://mijnliveomgeving.com>|
 | Implementatieplan          | TODO |  [doc/fase2/imp.rtf] |
 
