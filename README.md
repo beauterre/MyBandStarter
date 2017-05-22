@@ -3,8 +3,9 @@ www.mijnliveomgeving.com is een website van (Nick Hordijk) waar gebruikers kunne
 De website is enigszins te vergelijken met (reddit.com/r/worldofpvp/) of (https://eu.battle.net/forums/en/wow/) maar toch anders omdat (..uniek aspect..)
 
 ### Uniek aan dit concept is:
-#### PVE en PVP zijn gemixed!
-#### je moder op een bakfirest
+* PVE en PVP zijn gemixed!
+* Meer gericht op de doelgroep gamers (Mensen die Blizzard games spelen).
+* 
 
 ---
 #### Week doel iets
