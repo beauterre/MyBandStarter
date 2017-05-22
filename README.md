@@ -12,7 +12,7 @@ De website is enigszins te vergelijken met de officiele Rainbow Six Siege Websit
 | ------ |  ------ | ------ | ------ |
 | readme                         | DONE |  [readme.md]            | *MarkDown op github |
 | b1-k1-w1 debriefing            | TODO | [Debriefing]            | Google Doc Comment enabled |
-| b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | *Markdown |
+| b1-k1-w1 bepaling uitgangspunt | DONE | [Leidraad_uitgangspunt.md] | *Markdown |
 | b1-k1-w2 Urenschatting         | TODO | [doc/1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | TODO | [doc/1/planning.md]     | *Markdown |
 | b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Rich Text Format |
