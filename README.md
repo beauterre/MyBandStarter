@@ -1,3 +1,11 @@
+#Nick: ik kan geen issues maken, heb je het uitgezet?
+>Dan doe ik het wel zo:
+>De links in de readme doen het niet, dus ik kan het niet beoordelene.
+>Ik wil deze week het F.O kunnen goedkeuren.
+>Ik volg je github, dus ik zie het wel verschijnen. Zet ff issues aan, dat communiceert makkelijekr.
+>Het is wel een goed onderwerp, maar fans die troep posten is niet echt de bedoeling. Het is geen Wall.
+
+
 ## World of warcraft
 www.mijnliveomgeving.com is een website van (Nick Hordijk) waar gebruikers kunnen (Fans kunnen troep posten die ze kwijt willen) bedoeld voor (mensen die World of warcraft spelen)
 De website is enigszins te vergelijken met (reddit.com/r/worldofpvp/) of (https://eu.battle.net/forums/en/wow/) maar toch anders omdat (..uniek aspect..)
