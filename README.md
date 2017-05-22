@@ -1,10 +1,10 @@
-## Titel van jouw website
-www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+## Rainfo.TV
+www.Rainfo.TV is een website van Jordi Roodenburg waar gebruikers gameplay en andere informatie bedoeld voor de spelers en geintereceerden in de game Rainbow Six Siege (by U-play)
+De website is enigszins te vergelijken met de officiele Rainbow Six Siege Website of de officiele Battlefield (by Dice) website maar toch anders omdat er op Rainfo ook een forum gelegenheid is.
 
 ### Uniek aan dit concept is: 
- * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
- * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
+ * eerste u.s.p. Forum Mogelijkheid
+ * tweede u.s.p. Uniek
 
 ---
 #### Milestones Fase 1
@@ -21,7 +21,7 @@ De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrenti
 | b1-k1-w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
 | b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
 
-   [readme.md]: <https://github.com/JouwGithubNaam/myband/blob/master/readme.md>
+   [readme.md]: <https://github.com/JRoodenburg/MyBandStarter/blob/master/README.md>
    [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/u/0/>
    [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
