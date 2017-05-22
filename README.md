@@ -5,7 +5,7 @@ De website is enigszins te vergelijken met (reddit.com/r/worldofpvp/) of (https:
 ### Uniek aan dit concept is:
 * PVE en PVP zijn gemixed!
 * Meer gericht op de doelgroep gamers (Mensen die Blizzard games spelen).
-* 
+* okay iets
 
 ---
 #### Week doel iets
