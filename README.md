@@ -1,3 +1,6 @@
+#Hi Jordy,
+>issues staan uit, dus zo maar ff. Zou je die weer aan kunnen zetten dat communiceert wat makkelijker.
+
 ## Rainfo.TV
 www.Rainfo.TV is een website van Jordi Roodenburg waar gebruikers gameplay en andere informatie bedoeld voor de spelers en geintereceerden in de game Rainbow Six Siege (by U-play)
 De website is enigszins te vergelijken met de officiele Rainbow Six Siege Website of de officiele Battlefield (by Dice) website maar toch anders omdat er op Rainfo ook een forum gelegenheid is.
