@@ -3,14 +3,15 @@ www.mijnliveomgeving.com is een website van (Nick Hordijk) waar gebruikers kunne
 De website is enigszins te vergelijken met (reddit.com/r/worldofpvp/) of (https://eu.battle.net/forums/en/wow/) maar toch anders omdat (..uniek aspect..)
 
 ### Uniek aan dit concept is:
-  het is die van mij
+#### PVE en PVP zijn gemixed!
+#### je moder op een bakfirest
 
 ---
 #### Week doel iets
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
-| readme                         | DONE |  [readme.md]            | *MarkDown op github |
-|  w1 debriefing            | DONE | [Debriefing] (maar snap er niets van)  | Google Doc Comment enabled |
+| readme                   | DONE |  [readme.md]            | *MarkDown op github |
+| w1 debriefing           | DONE | [Debriefing] (maar snap er niets van)  | Google Doc Comment enabled |
 | w1 bepaling uitgangspunt | DONE | [Leidraad_uitgangspunt.md] | *Markdown |
 | w2 Urenschatting         | TODO | [doc/1/urenschatting.md]| *Markdown |
 | w2 Planning              | TODO | [doc/1/planning.md]     | *Markdown |
