@@ -1,14 +1,21 @@
 # Uitgangspunt
 * keuze artiest, festival? etc.. 
+Keuze: Rainbow Six Siege.
 * Wordt het fictief? 
+Rainbow Six Siege is een game gebaseerd op de realiteit.
+
 * Ga je een bestaande site als uitgangspunt nemen?
+Nee.
 * hoe uitgebreid wil je het maken?
+Ik probeer een zo goed mogelijke user experience te creeren, verdere uitbreidingen komen daarna.
 
 ##### Fase 1 Oriëntatie op het gekozen website onderwerp 
-Oriëntatie op het gekozen website onderwerp en 
 * zijn concurrenten; 
+Andere fps games, Bijvoorbeeld CS:GO & Battlefield
 * de doelgroep(en)
+Tieners tussen de 17/25
 * diensten.
+n.v.t
 
 Resultaat: voorbereiding op gesprek met opdrachtgever
 
@@ -18,7 +25,9 @@ Resultaat: document (eerste versie debriefing)
 ##### Fase 3 Advies aan opdrachtgever/docent
 Naar aanleiding van eerste briefing 
 Resultaat: 
-Aantekeningen van het gesprek en eerste ideeën aan de hand van het  gekozen website onderwerp (deze kun je schrijven en je zet een link in github!)
+Aantekeningen van het gesprek en eerste ideeën
+aan de hand van het gekozen website onderwerp 
+(deze kun je schrijven en je zet een link in github!)
 
 ##### Fase 4 Definitieve debriefing
 De definitieve debriefing wordt ter goedkeuring aan de docent  
